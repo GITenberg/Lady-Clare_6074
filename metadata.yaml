@@ -1,0 +1,31 @@
+_repo: Lady-Clare_6074
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 6074/6074-h/images/titler.png
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Tennyson, Alfred Tennyson, Baron
+    alias: Tennyson, Alfred Lord
+    birthdate: 1809
+    deathdate: 1892
+    gutenberg_agent_id: '2987'
+    url: http://www.gutenberg.org/2009/agents/2987
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Tennyson%2C_1st_Baron_Tennyson
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+- GITenberg
+title: Lady Clare
+url: http://www.gutenberg.org/ebooks/6074
